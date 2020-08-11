@@ -1,4 +1,6 @@
 # Fullstack Node Application
 
-- Uses Express as server
-- Uses Google Oauth2
+- Express as server
+- Google Oauth2
+- Passport JS for auth middleware
+- Cookie based auth
