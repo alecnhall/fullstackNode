@@ -4,6 +4,7 @@ const googleStrategy = require('passport-google-oauth20').Strategy;
 const app = express();
 
 // implementing passport strategy
+// console.developers.google.com
 passport.use(new googleStrategy());
 
 // test route
